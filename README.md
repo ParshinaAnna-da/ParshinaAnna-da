@@ -2,6 +2,7 @@
 
 ## :link: **I am a Data Analyst.**
 
-## :link: ** Connect with me**
+## :link: **Connect with me**
+
 
 
