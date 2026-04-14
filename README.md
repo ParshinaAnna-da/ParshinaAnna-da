@@ -2,7 +2,7 @@
 
 ## :link: **I am a Data Analyst :bar_chart:**
 - :factory: Past experience: Stabilized measurement results on tire dynamic balance testing machine by determining the optimal amount and concentration of lubricant, which reduced the equipment's influence on the actual performance of tires.
-- :chart_with_upwards_trend: Now I'm doing project work practicing below mentioned "Skills & Technologies" and improving my math skills.
+- :chart_with_upwards_trend: Now I'm doing project work honing below mentioned "Skills & Technologies" and improving my math skills.
 - :rocket: 2026 Goals: find a dream team to dive deep into the data and fight for a better product.
 
 ## :link: **Skills & Technologies:** :hammer:
