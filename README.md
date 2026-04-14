@@ -5,7 +5,7 @@
 - :chart_with_upwards_trend: Now I'm doing project work and improving my math skills.
 - :rocket: 2026 Goals: find a dream team to dive deep into the data and fight for a better product.
 
-## :link: **Skills & Technologies**
+## :link: **Skills & Technologies** :hammer:
 [![SQL](https://img.shields.io/badge/SQL-4E7496?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -18,7 +18,7 @@
 * **Analysis:** A/B Testing, Product Analytics, Mathematical Statistics (Pandas, NumPy, SciPy, statsmodels, scikit‑learn)
 * **Visualization:** Matplotlib, Seaborn, Plotly 
 
-## :link: **Connect with me**
+## :link: **Connect with me:** :mailbox:
 <a href="https://t.me/anna_parshina92" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=blue&logoColor=white&labelColor=blue&style=flat-square" height="25" />
 </a>
