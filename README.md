@@ -15,9 +15,6 @@
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-F5A623?logo=clickhouse&logoColor=white)](https://clickhouse.com/)
 [![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEF?logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 
-* **Analysis:** A/B Testing, Product Analytics, Mathematical Statistics (Pandas, NumPy, SciPy, statsmodels, scikit‑learn)
-* **Visualization:** Matplotlib, Seaborn, Plotly 
-
 ## :link: **Connect with me:** :mailbox:
 <a href="https://t.me/anna_parshina92" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=blue&logoColor=white&labelColor=blue&style=flat-square" height="25" />
