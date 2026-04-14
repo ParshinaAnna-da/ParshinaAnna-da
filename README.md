@@ -5,6 +5,19 @@
 - :chart_with_upwards_trend: Now I'm doing project work and improving my math skills.
 - :rocket: 2026 Goals: find a dream team to dive deep into the data and fight for a better product.
 
+## :link: **Skills & Technologies**
+[![SQL](https://img.shields.io/badge/SQL-4E7496?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](https://products.office.com/en/excel)
+[![DataLens](https://img.shields.io/badge/Yandex_DataLens-007BFF?logo=data-lens&logoColor=white)](https://cloud.yandex.ru/services/datalens)
+[![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apache-spark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
+[![ClickHouse](https://img.shields.io/badge/ClickHouse-F5A623?logo=clickhouse&logoColor=white)](https://clickhouse.com/)
+[![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEF?logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
+
+* **Analysis:** A/B Testing, Product Analytics, Mathematical Statistics (Pandas, NumPy, SciPy, statsmodels, scikit‑learn)
+* **Visualization:** Matplotlib, Seaborn, Plotly 
+
 ## :link: **Connect with me**
 <a href="https://t.me/anna_parshina92" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=blue&logoColor=white&labelColor=blue&style=flat-square" height="25" />
