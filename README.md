@@ -15,6 +15,6 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ONWOIi6Qxs)](https://leetcode.com/ONWOIi6Qxs)
 
-![](https://github-readme-stats.vercel.app/api?username=ParshinaAnna-da)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParshinaAnna-da)
 
 
