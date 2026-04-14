@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/static/v1?message=Email&logo=mail.ru&label=&color=green&logoColor=white&labelColor=green&style=flat-square" height="25" />
 </a>
 
+[![ONWOIi6Qxs's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=ONWOIi6Qxs)](https://github.com/ONWOIi6Qxs/leetcode-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParshinaAnna-da&layout=compact)](https://github.com/ParshinaAnna-da/github-readme-stats)
 
 
