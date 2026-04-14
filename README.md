@@ -25,7 +25,7 @@
 <a href="mailto:harukadono@mail.ru" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Email&logo=mail.ru&label=&color=green&logoColor=white&labelColor=green&style=flat-square" height="25" />
 
-  
+  ____
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParshinaAnna-da&layout=compact) [![LeetCode Stats](https://leetcard.jacoblin.cool/ONWOIi6Qxs)](https://leetcode.com/ONWOIi6Qxs) 
 
