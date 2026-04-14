@@ -5,7 +5,7 @@
 - :chart_with_upwards_trend: Now I'm doing project work and improving my math skills.
 - :rocket: 2026 Goals: find a dream team to dive deep into the data and fight for a better product.
 
-## :link: **Skills & Technologies** :hammer:
+## :link: **Skills & Technologies:** :hammer:
 [![SQL](https://img.shields.io/badge/SQL-4E7496?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
